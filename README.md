@@ -95,6 +95,9 @@ This should not be used on production environments, these steps are for developi
 
 # Evaluation
 
+You will start receiving messages at yout webex/telegram chat if a device move at real time:
+
+
 ![alt text](https://github.com/Geronaso/meraki-realtimebeacons/blob/main/images/result.png?raw=true)
 
 ## Author
