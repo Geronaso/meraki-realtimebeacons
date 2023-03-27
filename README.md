@@ -1,6 +1,6 @@
 # realtime-beacons
 
-This program is a simple web service that receives data from Cisco Meraki Scanning API. It then process the JSON data and send a message in real time through Telegram or Webex APIs if a bluetooth device has moved.
+This program is a simple web server that receives data from Cisco Meraki Scanning API. It then process the JSON data and send a message in real time through Telegram or Webex APIs if a bluetooth device has moved.
 
 + It uses Flask as the Web Service Application
 + It supports Webex and Telegram APIs to post chat messages
@@ -95,6 +95,7 @@ This should not be used on production environments, these steps are for developi
 
 # Evaluation
 
+![alt text](https://github.com/Geronaso/meraki-realtimebeacons/blob/main/images/result.png?raw=true)
 
 ## Author
 
