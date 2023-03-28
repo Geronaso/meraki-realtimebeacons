@@ -1,4 +1,5 @@
 # realtime-beacons
+Easily start receiving notifications in real time if your bluetooth devices connected to Meraki move with realtime-beacons.
 
 This program is a simple web server that receives data from Cisco Meraki Scanning API. It then process the JSON data and send a message in real time through Telegram or Webex APIs if a bluetooth device has moved.
 
