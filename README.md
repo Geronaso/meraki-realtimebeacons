@@ -15,7 +15,7 @@ Python >= 3.9
 
 ```
 git clone <<this repo>>
-cd 
+cd meraki-realtimebeacons
 python3 -m venv venv
 . venv/bin/activate
 pip install -r requirements.txt
